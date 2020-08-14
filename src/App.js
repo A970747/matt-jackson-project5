@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import axios from 'axios';
 import dictionary from './dictionary';
 import DisplayDefs from './DisplayDefs'
 import './App.css';
@@ -17,7 +16,7 @@ class App extends Component {
     }
   }
 
-
+  //get a random number from the dictionary array
   setQuery = () => {
     let number = Math.floor(Math.random() * dictionary.length)
     this.setState({
@@ -25,6 +24,7 @@ class App extends Component {
     })
   }
 
+  //when component mounts, get the word we start with.
   componentDidMount() {
       this.setQuery();
   }
