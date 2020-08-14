@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matt-jackson-project5/static/css/main.6825cbe2.chunk.css",
+    "main.js": "/matt-jackson-project5/static/js/main.1cd81684.chunk.js",
+    "main.js.map": "/matt-jackson-project5/static/js/main.1cd81684.chunk.js.map",
+    "runtime-main.js": "/matt-jackson-project5/static/js/runtime-main.05e6c08b.js",
+    "runtime-main.js.map": "/matt-jackson-project5/static/js/runtime-main.05e6c08b.js.map",
+    "static/js/2.2300e6f3.chunk.js": "/matt-jackson-project5/static/js/2.2300e6f3.chunk.js",
+    "static/js/2.2300e6f3.chunk.js.map": "/matt-jackson-project5/static/js/2.2300e6f3.chunk.js.map",
+    "index.html": "/matt-jackson-project5/index.html",
+    "precache-manifest.0f5f15fc8d048ba84e19bf4f9a91c5a7.js": "/matt-jackson-project5/precache-manifest.0f5f15fc8d048ba84e19bf4f9a91c5a7.js",
+    "service-worker.js": "/matt-jackson-project5/service-worker.js",
+    "static/css/main.6825cbe2.chunk.css.map": "/matt-jackson-project5/static/css/main.6825cbe2.chunk.css.map",
+    "static/js/2.2300e6f3.chunk.js.LICENSE.txt": "/matt-jackson-project5/static/js/2.2300e6f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e6c08b.js",
+    "static/js/2.2300e6f3.chunk.js",
+    "static/css/main.6825cbe2.chunk.css",
+    "static/js/main.1cd81684.chunk.js"
+  ]
+}
