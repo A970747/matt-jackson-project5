@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.flexForm {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+}
+
+.flexForm * {
+  flex-grow: 0;
+}
+
+input {
+  text-align: center;
+}
+
+input::placeholder {
+  text-transform: lowercase;
+}
+
+html { background-color: peachpuff}
